@@ -1,10 +1,7 @@
 import Home from "./components/home";
 import Library from "./components/library";
 import Centre from "./components/centre";
-import Timeline from "./components/timeline";
 import NowPlaying from "./components/NowPlaying";
-
-import React from "react";
 
 export default function App() {
   return (

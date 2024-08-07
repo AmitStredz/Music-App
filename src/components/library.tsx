@@ -1,4 +1,3 @@
-import React from "react";
 import LibraryList from "./LibraryList";
 
 export default function Library() {

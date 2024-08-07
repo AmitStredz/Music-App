@@ -1,5 +1,3 @@
-import React from 'react'
-
 export default function Home() {
   return (
     <div className='flex flex-col text-white  bg-[#121212] text-2xl rounded-lg p-5 '>
